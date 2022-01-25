@@ -28,10 +28,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
+global.packname = 'ツˣᴿᶻズガx'
+global.author = 'ツ'
 
-global.wm = '© ShiraoriBOT-Md Made by Ilman'
+global.wm = '© BotXrzz-MD By XrzzZ'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
