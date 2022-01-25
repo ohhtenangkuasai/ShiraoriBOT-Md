@@ -180,7 +180,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            },
                {
              quickReplyButton: {
-               displayText: '🧒 Owner',
+               displayText: '🧕 Owner',
                id: '.owner',
              }
 
