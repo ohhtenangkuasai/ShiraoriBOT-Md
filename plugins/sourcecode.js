@@ -19,8 +19,8 @@ https://github.com/ilmanhdyt/ShiraoriBOT-Md`
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '💠 Source Code',
-               url: 'https://github.com/ilmanhdyt/ShiraoriBOT-Md'
+               displayText: '⚡ Gabut?',
+               url: 'https://github.com/ilmanhdyt/XRzzZ'
              }
 
            },
